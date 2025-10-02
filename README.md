@@ -1,7 +1,7 @@
 **This my documentation of my first readme!** 
-I detail my Hello World sample as well as the different coding languages I know. 
+I detail my Hello World sample as well as the different coding languages I know. :smile:
 
-## Table of contents
+# Table of contents
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
@@ -11,7 +11,7 @@ I detail my Hello World sample as well as the different coding languages I know.
 
 ***Hello World***
 
-## Description
+### Description
 
 I am practicing using GitHub by creating a <ins> sample repository </ins>. In this, I am noting different coding languages I have used. 
 
